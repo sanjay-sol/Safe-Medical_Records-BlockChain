@@ -4,10 +4,7 @@ import MainComp from './MainComp'
 import doctor from '../record';
 // import { useRouter } from 'next/router'
 const DoctorDash = () => {
-  // const router = useRouter();
-  //   const addr = router.query.address;
-    // const accounts = await web3.eth.getAccounts();
-//     // var doctor, profilePic;
+  
 const [fname, setfname] = useState('');
 const [lname, setlname] = useState('');
 const [dob, setdob] = useState('');
