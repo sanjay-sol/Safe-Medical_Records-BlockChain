@@ -43,7 +43,27 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# grrr
-# sample
-# sample
-# Safe-Medical_Records-BlockChain
+# Some Images related to the project
+
+
+![dasn](https://user-images.githubusercontent.com/114111046/226584927-91141e0e-653d-42ef-8c7b-e048dec39e72.jpg)
+
+
+
+<img width="800" alt="d:p" src="https://user-images.githubusercontent.com/114111046/226584960-7e7a16d1-b8b3-4bb1-b91e-32b9631b30de.png">
+
+
+
+
+<img width="800" alt="pd" src="https://user-images.githubusercontent.com/114111046/226585068-f9517886-6461-4746-862f-86d0ca3af4bd.png">
+
+
+<img width="800" alt="dd" src="https://user-images.githubusercontent.com/114111046/226585125-5a409d0b-05af-47c4-9f10-57a6e1cd11cb.png">
+
+
+
+<img width="800" alt="patd" src="https://user-images.githubusercontent.com/114111046/226585166-f158d2dc-371b-47e7-a0e5-3e18548a8fbc.png">
+
+
+
+
